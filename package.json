@@ -1,0 +1,23 @@
+{
+  "name": "prime_solo_express",
+  "version": "1.0.0",
+  "description": "Create a basic node application using `npm init`. Add an `app.js` file. This is your entry point. Install express using `npm install express --save`.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "node ./app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ADourgarian/prime_solo_express.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ADourgarian/prime_solo_express/issues"
+  },
+  "homepage": "https://github.com/ADourgarian/prime_solo_express#readme",
+  "dependencies": {
+    "express": "^4.13.3"
+  }
+}
